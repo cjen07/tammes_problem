@@ -1,0 +1,37 @@
+#globe{
+  background: #fcfcfa;
+  width: 960px;
+  height: 960px;
+  margin-left: 50px;
+}
+
+.stroke {
+  fill: none;
+  stroke: #222;
+  stroke-width: 3px;
+}
+
+.fill {
+  fill: #fff;
+}
+
+.graticule {
+  fill: none;
+  stroke: #111;
+  stroke-width: .7px;
+}
+
+.land {
+  fill: #222;
+}
+
+.boundary {
+  fill: none;
+  stroke: #222;
+  stroke-width: .5px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
